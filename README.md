@@ -7,5 +7,5 @@ This Rails app is the back-end for the [Senti-Trend chrome extension] (http:gith
 #Technologies Used
 
 * Ruby on Rails
-* Figaro gem for environmental variable
-* HTTParty gem for API request
+* [Figaro gem](https://github.com/laserlemon/figaro "Figaro gem") for environmental variable
+* [HTTParty gem](https://github.com/jnunemaker/httparty "HTTParty gem") for API request
